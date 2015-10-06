@@ -33,7 +33,7 @@ public class GildedRose
 		{
 			Item item = items.get(i);
 			updateItem(item);
-		}
+		} 
 	}
 	
 
